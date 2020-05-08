@@ -1,5 +1,6 @@
 # E-Wallet
-It is a e  wallet system based on Python where we can add new users,update existing users and delete if required. The Database used is MySQL.GUI is designed using tkinter  
+It is a e  wallet system based on Python where we can add new users,update existing users and delete if required. The Database used is MySQL.
+GUI is designed using tkinter  
 
 To insatll the project on your system,export the wallet.sql file to the mysql workbench. The user id is "root",password is "" and the port number is 3306.
 
